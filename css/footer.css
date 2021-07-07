@@ -1,0 +1,9 @@
+/*rodapé*/
+footer {
+    text-align: center;
+    height: 50px;
+    margin-top: 410px;
+    border-top: solid 1px rgb(37, 37, 39);
+    background-color: rgb(238, 235, 235);
+
+}
